@@ -180,3 +180,5 @@ s.sendmail(fromaddr, toaddr, text)
   
 # terminating the session 
 s.quit() 
+
+raw_input()
